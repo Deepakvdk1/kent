@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[mavencheck]]>
+    </line>
+    <line>
+      <![CDATA[BBB: The Sign of a Better Business | Better Business Bureau]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-03-12T11:28:27 IST" name="Default suite" finished-at="2025-03-12T11:28:47 IST" duration-ms="20307">
+    <groups>
+    </groups>
+    <test started-at="2025-03-12T11:28:27 IST" name="Default test" finished-at="2025-03-12T11:28:47 IST" duration-ms="20307">
+      <class name="kent.Demo">
+        <test-method signature="mavencheck()[pri:0, instance:kent.Demo@292b08d6]" started-at="2025-03-12T11:28:27 IST" name="mavencheck" finished-at="2025-03-12T11:28:47 IST" duration-ms="20227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[mavencheck]]>
+            </line>
+            <line>
+              <![CDATA[BBB: The Sign of a Better Business | Better Business Bureau]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavencheck -->
+      </class> <!-- kent.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
