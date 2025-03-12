@@ -8,12 +8,12 @@
       <![CDATA[BBB: The Sign of a Better Business | Better Business Bureau]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-12T11:28:27 IST" name="Default suite" finished-at="2025-03-12T11:28:47 IST" duration-ms="20307">
+  <suite started-at="2025-03-12T20:26:44 IST" name="Default suite" finished-at="2025-03-12T20:26:53 IST" duration-ms="8848">
     <groups>
     </groups>
-    <test started-at="2025-03-12T11:28:27 IST" name="Default test" finished-at="2025-03-12T11:28:47 IST" duration-ms="20307">
+    <test started-at="2025-03-12T20:26:44 IST" name="Default test" finished-at="2025-03-12T20:26:53 IST" duration-ms="8848">
       <class name="kent.Demo">
-        <test-method signature="mavencheck()[pri:0, instance:kent.Demo@292b08d6]" started-at="2025-03-12T11:28:27 IST" name="mavencheck" finished-at="2025-03-12T11:28:47 IST" duration-ms="20227" status="PASS">
+        <test-method signature="mavencheck()[pri:0, instance:kent.Demo@292b08d6]" started-at="2025-03-12T20:26:44 IST" name="mavencheck" finished-at="2025-03-12T20:26:53 IST" duration-ms="8787" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[mavencheck]]>
